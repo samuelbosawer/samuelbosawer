@@ -12,13 +12,13 @@ Currently, I work and collaborate across technology, education, community develo
 
 ## 🚀 What I Do
 
-* 🌐 **Web Development** — Laravel, PHP, MySQL, Tailwind CSS, Bootstrap
-* 🤖 **AI & IoT** — AI-powered systems, ESP32, sensors, MQTT, cloud platforms
-* 🧑‍💻 **IT Consulting** — Web systems, hosting, deployment, IT infrastructure
-* 👨‍🏫 **Coding & Computer Training** — Web development, computer literacy, digital skills
-* ☁️ **Cloud & Deployment** — cPanel, GitHub, GitHub Pages, VPS & web hosting
-* 🎥 **Multimedia & Digital Production** — Photography, videography & digital content
-* 🌱 **Community Technology** — Digital literacy and technology development in Papua
+* 🌐 **Web Development** Laravel, PHP, MySQL, Tailwind CSS, Bootstrap
+* 🤖 **AI & IoT**  AI-powered systems, ESP32, sensors, MQTT, cloud platforms
+* 🧑‍💻 **IT Consulting**  Web systems, hosting, deployment, IT infrastructure
+* 👨‍🏫 **Coding & Computer Training**  Web development, computer literacy, digital skills
+* ☁️ **Cloud & Deployment**  cPanel, GitHub, GitHub Pages, VPS & web hosting
+* 🎥 **Multimedia & Digital Production**  Photography, videography & digital content
+* 🌱 **Community Technology**  Digital literacy and technology development in Papua
 
 ---
 
@@ -26,7 +26,7 @@ Currently, I work and collaborate across technology, education, community develo
 
 ### SAGU Foundation
 
-**IT / Web Developer • Computer Literacy Tutor • Community Development Support**
+**IT / Web Developer • Computer Literacy Tutor**
 
 Working on digital platforms, website development, IT infrastructure, and computer literacy programs.
 
@@ -126,4 +126,4 @@ I'm open to **collaboration, technology projects, web development, training, res
 
 **Build. Learn. Share. Create.**
 
-**— Samuel Bosawer**
+** Samuel Bosawer**
