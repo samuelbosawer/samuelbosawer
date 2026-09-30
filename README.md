@@ -38,11 +38,15 @@ Working on digital platforms, website development, IT infrastructure, and comput
 
 Supporting technology education and coding activities through training, mentoring, and community events.
 
+🔗 **[sacode.web.id](https://sacode.web.id)**
+
 ### NokenSoft / PT Noken Inovasi Teknologi Informasi
 
 **Web Developer / IT**
 
 Working on web-based applications, technical solutions, and digital systems.
+
+🔗 **[nokensoft.com](https://nokensoft.com)**
 
 ### Wone Film
 
@@ -50,6 +54,7 @@ Working on web-based applications, technical solutions, and digital systems.
 
 Supporting digital projects, website development, and multimedia-related work.
 
+🔗 **[wonefilm.com](https://wonefilm.com)**
 ---
 
 ## 🏗️ My Projects & Brands
